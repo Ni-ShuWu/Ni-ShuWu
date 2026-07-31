@@ -20,4 +20,5 @@
   - [shuwu41782459@gmail.com](https://shuwu41782459@gmail.com)
   - [shuwu41782459@qq.com](https://shuwu41782459@qq.com)
 
-  ![./54ba846c1425e8d85b77fc4c5a5ef055_1774879164517.png](/54ba846c1425e8d85b77fc4c5a5ef055_1774879164517.png)
+  
+# 另外，术无是大大的**baka**
