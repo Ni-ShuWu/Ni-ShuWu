@@ -1,7 +1,7 @@
 **中文** | [English](README_eh.md)
 
 # **你好，我是术无**
-- 马甲：**逆-术无（Ni-ShuWu）、迟言-术无**
+- 马甲：**逆-术无（Ni-ShuWu）、迟言-术无和某个神秘马甲（自己猜去）**
 
 <div align="center">
     <img height="170px" src="https://readme-omega.vercel.app/api?username=Ni-ShuWu" />
