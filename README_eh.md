@@ -11,6 +11,8 @@
         alt="GitHub Streak" />
 </div>
 
+[![Tokens Stats](https://tokens.ci/api/embed/Ni-ShuWu/svg?graph=1&today=1&tokens=full&cost=full)](https://tokens.ci/u/Ni-ShuWu)
+
 - Blog: https://nishuwu.vip
 - Projects I'm involved in:
   - [Shu'an Rhein Bot (术谙莱茵bot)](https://bot.shuwukelai.vip/)
